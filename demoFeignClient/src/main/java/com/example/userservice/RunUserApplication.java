@@ -1,4 +1,4 @@
-package com.example.demo_fc;
+package com.example.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,10 +8,10 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableFeignClients
-public class DemoFcApplication {
+public class RunUserApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoFcApplication.class, args);
+		SpringApplication.run(RunUserApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.example.demo_fc;
+package com.example.userservice;
 
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

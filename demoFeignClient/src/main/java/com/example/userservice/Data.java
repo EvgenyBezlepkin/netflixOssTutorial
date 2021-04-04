@@ -1,4 +1,4 @@
-package com.example.demo_fc;
+package com.example.userservice;
 
 public class Data {
 

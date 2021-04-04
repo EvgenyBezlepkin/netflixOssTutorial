@@ -1,4 +1,4 @@
-package com.example.demo_fc;
+package com.example.userservice;
 
 import feign.gson.GsonDecoder;
 import feign.gson.GsonEncoder;
